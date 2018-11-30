@@ -1,6 +1,6 @@
 # Goodbye REST - Building APIs with Django and GraphQL
 
-![it me](https://raw.githubusercontent.com/jaydenwindle/django-graphql-talk/master/talk.png)
+![it me](https://raw.githubusercontent.com/jaydenwindle/django-graphql-talk/master/talk.jpg)
 
 
 This repo holds the slides and the example code used in a talk I gave at the 
